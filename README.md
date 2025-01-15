@@ -1,4 +1,4 @@
-# Website Statis dengan HTML dan CSS dari Dasar | [Contoh website statis]()
+# Website Statis dengan HTML dan CSS dari Dasar | [Contoh website statis](https://anggoroo02.github.io/webinar-anggoro/examples/index.html)
 
 Webinar ini dirancang untuk pemula yang ingin mempelajari langkah-langkah dasar dalam membuat website statis menggunakan HTML dan CSS. Peserta akan memahami struktur HTML, dasar-dasar CSS, dan cara mengintegrasikannya untuk membangun halaman web sederhana.
 
