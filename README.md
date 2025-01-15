@@ -38,14 +38,14 @@ Webinar ini dirancang untuk pemula yang ingin mempelajari langkah-langkah dasar 
 
 ## 🗓️ Jadwal Webinar
 
-- **Tanggal**: [Masukkan tanggal di sini]
-- **Waktu**: [Masukkan waktu di sini]
-- **Platform**: [Masukkan platform yang digunakan, seperti Zoom atau Google Meet]
+- **Tanggal**: Minggu, 19 Januari 2025
+- **Waktu**: 10:00 WIB
+- **Platform**: Zoom
 
 ## 📂 Struktur Repository
 
 ```
-webinar-html-css/
+webinar-anggoro/
 ├── slides/               # File presentasi webinar
 ├── examples/             # Contoh kode HTML dan CSS
 ├── resources.md          # Daftar sumber belajar tambahan
@@ -55,9 +55,9 @@ webinar-html-css/
 ## 📞 Kontak
 
 Untuk informasi lebih lanjut, silakan hubungi:
-- **Email**: [Masukkan email Anda]
-- **LinkedIn**: [Masukkan profil LinkedIn Anda]
-- **Instagram**: [Masukkan akun Instagram Anda]
+- **Email**: [Anggoro jati](mailto:anggorojatipratikto002@gmail.com)
+- **LinkedIn**: [Anggoro Jati Pratikto](https://www.linkedin.com/in/anggoro-jati-pratikto-2285a232a/)
+- **Instagram**: [anggorojati18](https://www.instagram.com/anggorojati18/)
 
 ---
 
